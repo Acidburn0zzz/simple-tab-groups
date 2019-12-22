@@ -1,13 +1,1 @@
-<svg width="96" height="96" xmlns="http://www.w3.org/2000/svg">
-    <g fill="#606060">
-        <rect height="24" width="24" y="0" x="0" />
-        <rect height="24" width="24" y="0" x="36" />
-        <rect height="24" width="24" y="36" x="0" />
-        <rect height="24" width="24" y="36" x="36" />
-        <rect height="24" width="24" y="72" x="0" />
-        <rect height="24" width="24" y="72" x="36" />
-        <rect height="24" width="24" y="0" x="72" />
-        <rect height="24" width="24" y="36" x="72" />
-        <rect height="24" width="24" y="72" x="72" />
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96"><g fill="#606060"><rect width="24" height="24" x="0" y="0"/><rect width="24" height="24" x="36" y="0"/><rect width="24" height="24" x="0" y="36"/><rect width="24" height="24" x="36" y="36"/><rect width="24" height="24" x="0" y="72"/><rect width="24" height="24" x="36" y="72"/><rect width="24" height="24" x="72" y="0"/><rect width="24" height="24" x="72" y="36"/><rect width="24" height="24" x="72" y="72"/></g></svg>
